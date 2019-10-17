@@ -9,4 +9,4 @@ With DevExpress eXpressApp Framework (XAF) you can create functional and highly 
   <li>Visual Studio 2015 (Dex Express not compatible VS 2016 or higher)</li>
 </ul>
 
-<a href="https://www.devexpress.com/products/net/application_framework/">Read Documentation</a>
+<a href="https://www.devexpress.com/products/net/application_framework/">Read XAF Documentation</a>
